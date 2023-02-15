@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Faisal Samudra</h1>
-<h3 align="center">Proficient and motivated individual with a diverse skill set and a commitment to teamwork and leadership. Specializing in web development, UI/UX, analytics and process automation, seeking new opportunities to contribute my skills and drive positive change.</h3>
+<h1 align="left">Hi 👋, I'm Faisal Samudra</h1>
+<h3 align="left">Proficient and motivated individual with a diverse skill set and a commitment to teamwork and leadership. Specializing in web development, UI/UX, analytics and process automation, seeking new opportunities to contribute my skills and drive positive change.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absolutelynoot&label=Profile%20views&color=0e75b6&style=flat" alt="absolutelynoot" /> </p>
 
