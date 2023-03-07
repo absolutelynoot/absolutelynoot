@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **NextJS, React Native**
 
-- 📝 I regularly write articles on [<wip>](<wip>)
-
 - 💬 Ask me about **Vue, JavaScript**
 
 - 📫 How to reach me **isalsamudra@gmail.com**
