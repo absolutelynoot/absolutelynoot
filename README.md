@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absolutelynoot&label=Profile%20views&color=0e75b6&style=flat" alt="absolutelynoot" /> </p>
 
-- 🔭 I’m currently working on [Quantum Leap Vendor Management System](https://github.com/dracolim/IS442-Quantum)
+- 🔭 I’m currently working on [Quantum Leap Vendor Management System - Java Backend](https://github.com/dracolim/IS442-Quantum), [Singapore Housing Analytics](https://github.com/absolutelynoot/singapore-housing-analytics)
 
 - 🌱 I’m currently learning **NextJS, React Native**
 
