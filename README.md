@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Faisal Samudra</h1>
-<h3 align="left">Proficient and motivated individual with a diverse skill set and a commitment to teamwork and leadership. Specializing in web development, UI/UX, analytics and process automation, seeking new opportunities to contribute my skills and drive positive change.</h3>
+<h1 align="left">Hello world.. I'm Faisal Samudra</h1>
+<h3 align="left">Praying that my chat gpt prompt works for my new feature....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absolutelynoot&label=Profile%20views&color=0e75b6&style=flat" alt="absolutelynoot" /> </p>
 
-- 🌱 I’m currently learning **NextJS, React Native**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Vue, JavaScript**
+- 💬 Ask me about **Vue, React, Angular, JavaScript, Python, Spark**
 
 - 📫 How to reach me **isalsamudra@gmail.com**
 
